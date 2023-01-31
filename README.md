@@ -7,15 +7,15 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 ## 🌱 Currently learning:
 - React
 ## 🌱 Looking forward to learn:
-Node.js
-Express
-REST
-SQL
-PostgreSQL
-Redis
-MongoDB
-Docker
-AWS
+- Node.js
+- Express
+- REST
+- SQL
+- PostgreSQL
+- Redis
+- MongoDB
+- Docker
+- AWS
 
 
 #### 📫 Reach me at:
