@@ -10,6 +10,9 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 
 ## 📚 Currently Learning:
 - Express
+- MongoDB
+- Docker
+
 
 ## 📅 Hobbies:
 - Codewars problem solving
@@ -22,8 +25,6 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 - SQL
 - PostgreSQL
 - Redis
-- MongoDB
-- Docker
 - AWS
 
 #### 📫 Reach me at:
