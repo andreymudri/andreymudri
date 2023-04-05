@@ -20,7 +20,6 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 
 ## 🌱 Looking forward to learn:
 - Node.js
-- Express
 - REST
 - SQL
 - PostgreSQL
