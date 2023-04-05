@@ -9,7 +9,7 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 -   **English**
 
 ## 📚 Currently Learning:
-- React
+- Express
 
 ## 📅 Hobbies:
 - Codewars problem solving
