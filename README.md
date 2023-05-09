@@ -9,9 +9,7 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 -   **English**
 
 ## 📚 Currently Learning:
-- Express
-- MongoDB
-- Docker
+- PostgreSQL
 
 
 ## 📅 Hobbies:
@@ -19,7 +17,6 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 - Watching anime/TV shows
 
 ## 🌱 Looking forward to learn:
-- Node.js
 - REST
 - SQL
 - PostgreSQL
