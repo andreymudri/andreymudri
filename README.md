@@ -1,7 +1,7 @@
 # Hello, World! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Fullstack Javascript student with a strong interest in front-end development, user experience design and problem solving.
-Experienced in HTML, CSS, JavaScript.
+Experienced in HTML, CSS, JavaScript, React.
 Constantly seeking new opportunities to enhance my skills and create innovative solutions.
 
 ## ⚡ Languages:
@@ -9,7 +9,7 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 -   **English**
 
 ## 📚 Currently Learning:
-- PostgreSQL
+- Typescript
 
 
 ## 📅 Hobbies:
@@ -17,9 +17,6 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 - Watching anime/TV shows
 
 ## 🌱 Looking forward to learn:
-- REST
-- SQL
-- PostgreSQL
 - Redis
 - AWS
 
