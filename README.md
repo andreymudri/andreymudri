@@ -11,6 +11,7 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 ## 📚 Currently Learning:
 - Typescript
 - Next.js
+- Nest.js
 - Tailwind
 - Prisma
 
