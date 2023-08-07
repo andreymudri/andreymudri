@@ -17,6 +17,8 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 - Prisma
 - MongoDB
 - PostgreSQL
+- Redis
+- Unit/Integration testing
   
 ## 📚 Currently Learning:
 -Nest.js
