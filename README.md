@@ -8,12 +8,18 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 -  **Portuguese**
 -   **English**
 
-## 📚 Currently Learning:
+## ⚡ Skills:
+- React
 - Typescript
 - Next.js
-- Nest.js
+- Styled Components
 - Tailwind
 - Prisma
+- MongoDB
+- PostgreSQL
+  
+## 📚 Currently Learning:
+-Nest.js
 
 
 ## 📅 Hobbies:
@@ -21,8 +27,8 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 - Watching anime/TV shows
 
 ## 🌱 Looking forward to learn:
-- Redis
 - AWS
+
 
 #### 📫 Reach me at:
 
