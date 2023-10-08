@@ -51,6 +51,7 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
     </tr>
     <tr>
       <td style="text-align:center;"><img style="height: 25px;" src="https://img.shields.io/badge/nestjs-1A2C34?style=for-the-badge&logo=nestjs&logoColor=D2485A"></td>
+      <td style ="text-align:center;"> <img src="https://img.shields.io/badge/Docker-1A2C34?style=for-the-badge&logo=docker&logoColor=blue"> </td>
     </tr>
   </tbody>
 </table>
@@ -59,7 +60,7 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 
 ## 📚 Currently Learning:
 
- <img src="https://img.shields.io/badge/Docker-1A2C34?style=for-the-badge&logo=docker&logoColor=blue">
+ <img src="https://img.shields.io/badge/tRPC-1A2C34?style=for-the-badge&logo=tRPC&logoColor=blue">
 
 
 ## 🌱 Looking forward to learn:
