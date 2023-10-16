@@ -65,6 +65,7 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 
 ## 🌱 Looking forward to learn:
  <img src="https://img.shields.io/badge/amazonaws-1A2C34?style=for-the-badge&logo=amazonaws&logoColor=F7BA3E">
+ <img src="https://img.shields.io/badge/Jenkins-1A2C34?style=for-the-badge&logo=Jenkins&logoColor=blue">
 
 
 ## Stats:
