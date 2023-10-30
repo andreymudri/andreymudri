@@ -52,7 +52,8 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
     <tr>
       <td style="text-align:center;"><img style="height: 25px;" src="https://img.shields.io/badge/nestjs-1A2C34?style=for-the-badge&logo=nestjs&logoColor=D2485A"></td>
       <td style ="text-align:center;"> <img src="https://img.shields.io/badge/Docker-1A2C34?style=for-the-badge&logo=docker&logoColor=blue"> </td>
-      <td style ="text-align:center;">  <img src="https://img.shields.io/badge/tRPC-1A2C34?style=for-the-badge&logo=tRPC&logoColor=blue"> </td>
+      <td style ="text-align:center;"> <img src="https://img.shields.io/badge/tRPC-1A2C34?style=for-the-badge&logo=tRPC&logoColor=blue"> </td>
+      <td style ="text-align:center;"> <img src="https://img.shields.io/badge/amazonaws-1A2C34?style=for-the-badge&logo=amazonaws&logoColor=F7BA3E"> </td>
     </tr>
   </tbody>
 </table>
@@ -61,12 +62,12 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 
 ## 📚 Currently Learning:
 
- <img src="https://img.shields.io/badge/amazonaws-1A2C34?style=for-the-badge&logo=amazonaws&logoColor=F7BA3E">
+ <img src="https://img.shields.io/badge/Jenkins-1A2C34?style=for-the-badge&logo=Jenkins&logoColor=blue">
+
 
 
 
 ## 🌱 Looking forward to learn:
- <img src="https://img.shields.io/badge/Jenkins-1A2C34?style=for-the-badge&logo=Jenkins&logoColor=blue">
 
 
 ## Stats:
