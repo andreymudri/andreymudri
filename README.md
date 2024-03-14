@@ -64,7 +64,7 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 ## 📚 Currently Learning:
 
 
- <img src="https://img.shields.io/badge/Java-1A2C34?style=for-the-badge&logo=JAva&logoColor=blue">
+ <img src="https://img.shields.io/badge/Python-1A2C34?style=for-the-badge&logo=Python&logoColor=blue">
 
 
 
