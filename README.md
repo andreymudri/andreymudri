@@ -29,7 +29,9 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
       <tr>
         <td><img height="25" src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></td>
         <td><img height="25" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></td>
-        <td><img height="25" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"></td>
+        <td><img height="25" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+        <td><img height="25" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+        </td>
       </tr>
       <tr>
         <td><img height="25" src="https://img.shields.io/badge/Python-1A2C34?style=for-the-badge&logo=Python&logoColor=blue"></td>
@@ -45,7 +47,6 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
 <div  align = "center" style ="display: none;">
 <a href="https://github.com/andreymudri">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreymudri&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreymudri&show_icons=true&theme=dracula"/>
 </div>
 
 ## 📫 Reach me at:
