@@ -41,14 +41,6 @@ Constantly seeking new opportunities to enhance my skills and create innovative 
   </table>
 </div>
 
-
-
-## Stats:
-<div  align = "center" style ="display: none;">
-<a href="https://github.com/andreymudri">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreymudri&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## 📫 Reach me at:
 
 
