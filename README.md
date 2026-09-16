@@ -10,7 +10,7 @@ I like problems where an error has real consequences. CRUD that nobody notices b
  
 | Project | What it is |
 |---------|-----------|
-| [**claude-teammates**](https://github.com/andreymudri/claude-teammates) | Fleet orchestration for Claude Code: worktree-isolated parallel agents, automated phase gates, and git-based verification. Multi-agent workflows that actually check their own work. |
+| [**fleetmates**](https://github.com/andreymudri/fleetmates) | Fleet orchestration for Claude Code: worktree-isolated parallel agents, automated phase gates, and git-based verification. Multi-agent workflows that actually check their own work. |
 | [**vault-mcp**](https://github.com/andreymudri/vault-mcp) | MCP server giving a coding agent long-term memory over an Obsidian vault: BM25 retrieval plus one wiki-link hop, `path:line` citations, automatic learning capture, and link-safe move/rename/delete — every write committed to the vault's git. Published on npm as [`@andreymudri/vault-mcp`](https://www.npmjs.com/package/@andreymudri/vault-mcp). |
 | [**betting_platform_challenge**](https://github.com/andreymudri/betting_platform_challenge) | Sports betting API in TypeScript/Express with Prisma and PostgreSQL. Dockerised, Jest suite with a committed coverage report. |
 | [**devops-pucpr**](https://github.com/andreymudri/devops-pucpr) | CI/CD pipeline lab. GitHub Actions that opens an issue automatically when the build breaks, and publishes the coverage report to Pages on every merge. |
