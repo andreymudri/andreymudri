@@ -2,7 +2,7 @@
  
 Full Stack Developer working across **Go, TypeScript, and Python**, with a backend and infrastructure lean: Terraform, WAF, CDN, and CI/CD pipelines that keep production boring (the good kind of boring).
  
-Before that: B2B SaaS microservices for the telecom market, seven full-stack systems shipped in five months as a contractor, and a long-running hobby of building game servers in C++ and Lua. Currently finishing a B.S. in Systems Analysis and Development at PUCPR, where I also tutor OOP in Java, plus a postgrad specialization in Software Engineering with Applied AI.
+Before that: B2B SaaS microservices for the telecom market, seven full-stack systems shipped in five months as a contractor, and a long-running hobby of building game servers in C++ and Lua. I graduated in Systems Analysis and Development at PUCPR in 2026, where I also tutored OOP in Java, and I'm now doing a postgrad specialization in Software Engineering with Applied AI.
  
 I like problems where an error has real consequences. CRUD that nobody notices breaking doesn't count.
  
@@ -61,4 +61,4 @@ I like problems where an error has real consequences. CRUD that nobody notices b
 ## 📫 Reach me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0081CB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreymudri/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreymudri@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreybeckert@gmail.com)
